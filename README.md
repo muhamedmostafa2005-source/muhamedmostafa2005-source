@@ -1,4 +1,4 @@
-<h1 align="center"> welcome to muhamed mostafa's profileHi 👋</h1>
+<h1 align="center"> welcome to muhamed mostafa's profile👋</h1>
 <h3 align="center"> frontend developer</h3>
 <h5>i'm a CS student ,constantly learning and exploring new technologies to improve my own skills</h3>
 <h5>Detail-oriented Front-End Developer with strong expertise in Angular, TypeScript, and responsive UI design.I am passionate about creating clean, scalable web applications that prioritize user experience and performance. Adept at delivering dynamic, interactive web solutions while adhering to modern development practices and responsive design principles.</h3>
