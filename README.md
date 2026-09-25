@@ -1,6 +1,6 @@
 <h1 align="center"> welcome to muhamed mostafa's profileHi 👋</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<h3 align="center">i'm a CS student ,constantly learning and exploring new technologies to improve my own skills</h3>
+<h5 align="center">i'm a CS student ,constantly learning and exploring new technologies to improve my own skills</h3>
 
 
 
