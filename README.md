@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Muhamed Mostafa's profile Hi 👋</h1>
+<h1 align="center">Welcome to Muhamed Mostafa's profile 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=8B7BFF&center=true&vCenter=true&width=460&lines=Frontend+Developer;Angular+%7C+TypeScript+Enthusiast;Turning+Ideas+Into+Interfaces" alt="Typing SVG" />
